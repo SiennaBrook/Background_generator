@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to top,blue,violet);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+input{
+    align-content: center;
+}
+.card {
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius:20px;
+    ;
+  }
+#color{
+    align-content: center;
+}
+  .container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
